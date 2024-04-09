@@ -1,4 +1,4 @@
-# Getting Started with Create React App made in IIITB
+# Getting Started with Create React App made in IIITB, India
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
